@@ -1,0 +1,5 @@
+﻿  Pixel.cpp
+c:\users\79037\source\repos\consoleopengl\consoleopengl\pixel.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\79037\source\repos\consoleopengl\consoleopengl\pixel.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\79037\source\repos\consoleopengl\consoleopengl\pixel.cpp(158): warning C4553: '==': result of expression not used; did you intend '='?
+  ConsoleOpenGL.vcxproj -> C:\Users\79037\source\repos\ConsoleOpenGL\x64\Debug\ConsoleOpenGL.exe
